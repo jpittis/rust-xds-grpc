@@ -1,0 +1,1 @@
+`cd xds && ./build.sh`

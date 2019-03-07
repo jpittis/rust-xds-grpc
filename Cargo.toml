@@ -1,0 +1,10 @@
+[package]
+name = "rust-xds-grpc"
+version = "0.1.0"
+authors = ["Jake Pittis <jakepittis@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+protobuf = "2.4.0"
+grpcio = "0.4.4"
+futures = "0.1.25"

@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+Cargo.lock
+xds/data-plane-api/
+xds/googleapis/
+xds/protoc-gen-validate/
