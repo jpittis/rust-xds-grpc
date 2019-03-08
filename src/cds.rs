@@ -5032,8 +5032,8 @@ static file_descriptor_proto_data: &'static [u8] = b"\
     er.DiscoveryTypeR\x04typeB\n\xba\xe9\xc0\x03\x05\x82\x01\x02\x10\x01\x12\
     T\n\x12eds_cluster_config\x18\x03\x20\x01(\x0b2&.envoy.api.v2.Cluster.Ed\
     sClusterConfigR\x10edsClusterConfig\x12V\n\x0fconnect_timeout\x18\x04\
-    \x20\x01(\x0b2\x19.google.protobuf.DurationR\x0econnectTimeoutB\x12\xc8\
-    \xde\x1f\0\xba\xe9\xc0\x03\x05\xaa\x01\x02*\0\x98\xdf\x1f\x01\x12f\n!per\
+    \x20\x01(\x0b2\x19.google.protobuf.DurationR\x0econnectTimeoutB\x12\xba\
+    \xe9\xc0\x03\x05\xaa\x01\x02*\0\x98\xdf\x1f\x01\xc8\xde\x1f\0\x12f\n!per\
     _connection_buffer_limit_bytes\x18\x05\x20\x01(\x0b2\x1c.google.protobuf\
     .UInt32ValueR\x1dperConnectionBufferLimitBytes\x12G\n\tlb_policy\x18\x06\
     \x20\x01(\x0e2\x1e.envoy.api.v2.Cluster.LbPolicyR\x08lbPolicyB\n\xba\xe9\
@@ -5063,8 +5063,8 @@ static file_descriptor_proto_data: &'static [u8] = b"\
     \x12\x20\x03(\x0b2\x1a.envoy.api.v2.core.AddressR\x0cdnsResolvers\x12S\n\
     \x11outlier_detection\x18\x13\x20\x01(\x0b2&.envoy.api.v2.cluster.Outlie\
     rDetectionR\x10outlierDetection\x12T\n\x10cleanup_interval\x18\x14\x20\
-    \x01(\x0b2\x19.google.protobuf.DurationR\x0fcleanupIntervalB\x0e\xba\xe9\
-    \xc0\x03\x05\xaa\x01\x02*\0\x98\xdf\x1f\x01\x12O\n\x14upstream_bind_conf\
+    \x01(\x0b2\x19.google.protobuf.DurationR\x0fcleanupIntervalB\x0e\x98\xdf\
+    \x1f\x01\xba\xe9\xc0\x03\x05\xaa\x01\x02*\0\x12O\n\x14upstream_bind_conf\
     ig\x18\x15\x20\x01(\x0b2\x1d.envoy.api.v2.core.BindConfigR\x12upstreamBi\
     ndConfig\x12N\n\x10lb_subset_config\x18\x16\x20\x01(\x0b2$.envoy.api.v2.\
     Cluster.LbSubsetConfigR\x0elbSubsetConfig\x12W\n\x13ring_hash_lb_config\

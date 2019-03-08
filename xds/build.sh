@@ -16,6 +16,7 @@ protoc \
   data-plane-api/envoy/api/v2/route/*.proto \
   data-plane-api/envoy/api/v2/auth/*.proto \
   data-plane-api/envoy/api/v2/*.proto \
+  data-plane-api/envoy/service/discovery/v2/*.proto \
   googleapis/google/api/http.proto \
   googleapis/google/rpc/status.proto \
   googleapis/google/api/annotations.proto \
