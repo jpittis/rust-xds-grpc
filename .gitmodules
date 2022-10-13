@@ -1,0 +1,21 @@
+[submodule "client_model"]
+	path = client_model
+	url = https://github.com/prometheus/client_model
+[submodule "data-plane-api"]
+	path = data-plane-api
+	url = https://github.com/envoyproxy/data-plane-api
+[submodule "googleapis"]
+	path = googleapis
+	url = https://github.com/googleapis/googleapis.git
+[submodule "xds"]
+	path = xds
+	url = https://github.com/cncf/xds
+[submodule "protoc-gen-validate"]
+	path = protoc-gen-validate
+  url = https://github.com/lyft/protoc-gen-validate.git
+[submodule "opencensus-proto"]
+	path = opencensus-proto
+  url = https://github.com/census-instrumentation/opencensus-proto
+[submodule "opentelemetry-proto"]
+	path = opentelemetry-proto
+  url = https://github.com/open-telemetry/opentelemetry-proto
