@@ -1,3 +1,7 @@
+**This project has moved to [jpittis/rust-control-plane](https://github.com/jpittis/rust-control-plane), which as been published to crates.io under [data-plane-api](https://crates.io/crates/data-plane-api).**
+
+
+
 This is still a toy project, so YMMV. Bobby's
 https://github.com/bpowers/rust-envoy-control-plane may be more legit. The goal is to
 implement https://github.com/jpittis/rust-control-plane on top of this, as a Rust
